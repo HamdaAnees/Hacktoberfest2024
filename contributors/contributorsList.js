@@ -2088,6 +2088,11 @@ contributors = [
     id: 441,
     fullname: "Parth Panjwani",
     username: "https://github.com/Parth-Panjwani",
-  },
+  }, 
+  {
+    id: 442,
+    fullname: "Hamda Anees",
+    username: "https://github.com/HamdaAnees",
+  }
 
 ];
